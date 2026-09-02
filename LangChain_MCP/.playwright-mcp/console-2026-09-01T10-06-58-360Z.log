@@ -1,0 +1,19 @@
+[     429ms] [LOG] ContentPass | Sourcepoint not loaded yet. Retrying. @ https://www.bbcgoodfood.com/recipes/banoffee-pie:362
+[     457ms] [LOG] ContentPass | Sourcepoint not loaded yet. Retrying. @ https://www.bbcgoodfood.com/recipes/banoffee-pie:362
+[     663ms] [LOG] ContentPass | Starting Sourcepoint @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[     679ms] [LOG] Zephr onDOMReady about to fired. @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[     692ms] [LOG] Initializing OpenWebSSO component @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[     783ms] [LOG] Missing required settings. Skipping. {spotId: undefined, useIdentitySso: undefined} @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[     784ms] [LOG] Missing required settings for logout check. Skipping. {spotId: undefined, useIdentitySso: undefined} @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[     803ms] [LOG] Hydration complete after 11.40 ms @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[     863ms] [LOG] Zephr: Setting up consolidated consent synchronization @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[     864ms] [LOG] Zephr: Setting up consolidated consent synchronization @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[    1059ms] [LOG] Initializing OpenWebSSO component @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[    1109ms] [LOG] Missing required settings. Skipping. {spotId: undefined, useIdentitySso: undefined} @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[    2134ms] [LOG] Messaging without detection successfully executed. @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[    2135ms] [LOG] SourcePoint | [event] onSPPMObjectReady [undefined] @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[    2151ms] [LOG] CMP UI shown - waiting for user consent resolution before Zephr starts. @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[    2151ms] [LOG] CMP UI shown - waiting for user consent resolution before Zephr starts. @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[    2177ms] [LOG] SourcePoint | [event] onMessageReceiveData [gdpr, Object] @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[    2270ms] [LOG] SourcePoint | [event] onMessageReady [gdpr] @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-7fc8f8517f9e35f7.js:59
+[    7147ms] [WARNING] The resource https://www.bbcgoodfood.com/segment/analytics.js/v1/DqXUIAeV8f6valtkjZA8NiwwSbvcv8jR/analytics.min.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.bbcgoodfood.com/recipes/banoffee-pie:0
