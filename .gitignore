@@ -23,3 +23,7 @@ LangChain_MCP/.playwright-mcp/page-2026-08-19T06-40-16-372Z.yml
 LangChain_MCP/.playwright-mcp/page-2026-08-19T06-40-42-902Z.yml
 LangChain_MCP/.playwright-mcp/page-2026-08-19T06-40-50-807Z.yml
 LangChain_MCP/memory/memory.json
+LangChain_MCP/memory/qdrant/collection/knowledge/storage.sqlite
+.gitignore
+LangChain_MCP/memory/qdrant/meta.json
+LangChain_MCP/memory/qdrant/.lock
